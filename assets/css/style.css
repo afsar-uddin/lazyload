@@ -1,8 +1,10 @@
-
+.au-inner-col {
+	margin-bottom: 30px;
+}
 img.lazy {
 	min-height: 405px;
 	display: block;
     background-image: url('../images/loading.gif');
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: center center;
 }
