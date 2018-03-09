@@ -1,15 +1,6 @@
+
 img.lazy {
-}
-.au-inner-col {
-	position: relative;
-}
-.au-lazy {
-	position: absolute;
-	left: 0;
-	top: 40px;
-	z-index: -1;
-	height: 200px;
-	width: 100%;
+	min-height: 200px;
 	display: block;
     background-image: url('../images/loading.gif');
     background-repeat: no-repeat;
